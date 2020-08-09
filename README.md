@@ -7,3 +7,5 @@ public class UserConnect
 
 # Accessing SQL script within the data access class
 string sql = this.MySqlScriptor.GetSql("<Pass in the script>");
+
+# SQL XML files should be marked as a Embedded Resource
