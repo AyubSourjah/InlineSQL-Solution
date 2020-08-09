@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sql default="mssql">
+  <scripts id="QueryUserInformation">
+    <mssql>
+      Your inline sql with MSSQL syntax go here
+    </mssql>
+    <oracle>
+      Your inline sql with Oracle syntax go here
+    </oracle>
+  </scripts>
+  <scripts id="QueryOthers">
+    <mssql>
+      SELECT (FirstName + ' ' + LastName) as UserFullName FROM Users
+    </mssql>
+    <oracle>
+      SELECT (FirstName || ' ' || LastName) as UserFullName FROM Users
+    </oracle>
+  </scripts>
+</sql>

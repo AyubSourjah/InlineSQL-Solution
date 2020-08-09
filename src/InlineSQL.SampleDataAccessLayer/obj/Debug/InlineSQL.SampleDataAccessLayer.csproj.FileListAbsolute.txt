@@ -1,0 +1,9 @@
+D:\GitHub\InlineSQL-Solution\src\InlineSQL.SampleDataAccessLayer\bin\Debug\InlineSQL.SampleDataAccessLayer.dll
+D:\GitHub\InlineSQL-Solution\src\InlineSQL.SampleDataAccessLayer\bin\Debug\InlineSQL.SampleDataAccessLayer.pdb
+D:\GitHub\InlineSQL-Solution\src\InlineSQL.SampleDataAccessLayer\bin\Debug\InLineSQL.dll
+D:\GitHub\InlineSQL-Solution\src\InlineSQL.SampleDataAccessLayer\bin\Debug\InLineSQL.pdb
+D:\GitHub\InlineSQL-Solution\src\InlineSQL.SampleDataAccessLayer\obj\Debug\InlineSQL.SampleDataAccessLayer.csprojAssemblyReference.cache
+D:\GitHub\InlineSQL-Solution\src\InlineSQL.SampleDataAccessLayer\obj\Debug\InlineSQL.SampleDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\GitHub\InlineSQL-Solution\src\InlineSQL.SampleDataAccessLayer\obj\Debug\InlineSQL.SampleDataAccessLayer.csproj.CopyComplete
+D:\GitHub\InlineSQL-Solution\src\InlineSQL.SampleDataAccessLayer\obj\Debug\InlineSQL.SampleDataAccessLayer.dll
+D:\GitHub\InlineSQL-Solution\src\InlineSQL.SampleDataAccessLayer\obj\Debug\InlineSQL.SampleDataAccessLayer.pdb
