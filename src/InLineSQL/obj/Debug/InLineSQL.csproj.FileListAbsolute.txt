@@ -1,6 +1,0 @@
-D:\GitHub\InlineSQL-Solution\src\InLineSQL\bin\Debug\InLineSQL.dll
-D:\GitHub\InlineSQL-Solution\src\InLineSQL\bin\Debug\InLineSQL.pdb
-D:\GitHub\InlineSQL-Solution\src\InLineSQL\obj\Debug\InLineSQL.csprojAssemblyReference.cache
-D:\GitHub\InlineSQL-Solution\src\InLineSQL\obj\Debug\InLineSQL.csproj.CoreCompileInputs.cache
-D:\GitHub\InlineSQL-Solution\src\InLineSQL\obj\Debug\InLineSQL.dll
-D:\GitHub\InlineSQL-Solution\src\InLineSQL\obj\Debug\InLineSQL.pdb
